@@ -1,2 +1,5 @@
-This is the source for the article Data Structures for PHP Devs: Stacks and
-Queues by Ignatius Teo, available at http://phpmaster.com/php-data-structures-1/
+This is the source for the series of articles Data Structures for PHP Devs by
+Ignatius Teo.
+
+Stacks and Queues: http://phpmaster.com/php-data-structures-1/
+Trees: http://phpmaster.com/data-structures-2/
